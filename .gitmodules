@@ -1,0 +1,4 @@
+[submodule "JPMC-tech-task-3-PY3"]
+	ignore = untracked
+[submodule ".gitmodules"]
+	ignore = untracked
