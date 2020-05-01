@@ -20,3 +20,5 @@ Available on https://www.insidesherpa.com/ , this virtual experience has 3 main 
    
  The duration to complete can be maximum 5 hours and upon completion, a certificate is received.
  ![Certificate](R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_ajNtQcxrgfyFafc68_completion_certificate.pdf)
+
+Kindly attempt on your own before taking refrence from here.
